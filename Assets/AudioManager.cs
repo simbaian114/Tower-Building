@@ -16,7 +16,7 @@ public class AudioManager : MonoBehaviour
     {
         if (Instance == null)
             Instance = this;
-        //Master Feature
+        //NewFeature
         audioSource = GetComponent<AudioSource>();
     }
 
